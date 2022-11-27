@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- exported from Silhouette Studio® Business Edition V4.4.945ssbe -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="508mm" height="304.8mm" viewBox="0 0 508 304.8">
+<defs>
+<path id="path_921dd281092b5f4bd358afa6b1e8210f" d="M 133.7769 45.45546 L 133.7769 65.44528 L 150.2869 65.44528 L 150.2869 45.45546 L 133.7769 45.45546 Z" fill-rule="evenodd" fill="none" fill-opacity="1" stroke="#FF0000" stroke-opacity="1" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="path_e893e47c58c62f44b2a7ed08ac41892d" d="M 138.1584 48.16036 C 138.1584 49.00128 137.4753 49.68436 136.6344 49.68436 C 135.7935 49.68436 135.1105 49.00128 135.1105 48.16036 C 135.1105 47.31944 135.7935 46.63636 136.6344 46.63636 C 137.4753 46.63636 138.1584 47.31944 138.1584 48.16036 Z" fill-rule="evenodd" fill="none" fill-opacity="1" stroke="#FF0000" stroke-opacity="1" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="path_1886a968bc10abc0cd11e9963ed84985" d="M 148.9534 48.16037 C 148.9534 49.00129 148.2703 49.68438 147.4294 49.68438 C 146.5885 49.68438 145.9054 49.00129 145.9054 48.16037 C 145.9054 47.31945 146.5885 46.63636 147.4294 46.63636 C 148.2703 46.63636 148.9534 47.31945 148.9534 48.16037 Z" fill-rule="evenodd" fill="none" fill-opacity="1" stroke="#FF0000" stroke-opacity="1" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="path_96c16c04dd181ea949806d01e726fccc" d="M 143.4667 61.94607 C 144.0765 61.94607 144.5719 61.7753 144.5719 61.56507 L 144.5719 60.80307 C 144.5719 60.59285 144.0765 60.42208 143.4667 60.42208 L 140.5972 60.42208 C 139.9873 60.42208 139.4919 60.59285 139.4919 60.80307 L 139.4919 61.56507 C 139.4919 61.7753 139.9873 61.94607 140.5972 61.94607 L 143.4667 61.94607 Z" fill-rule="evenodd" fill="none" fill-opacity="1" stroke="#FF0000" stroke-opacity="1" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round"/>
+</defs>
+<g>
+<use xlink:href="#path_921dd281092b5f4bd358afa6b1e8210f"/>
+</g>
+<g>
+<use xlink:href="#path_e893e47c58c62f44b2a7ed08ac41892d"/>
+</g>
+<g>
+<use xlink:href="#path_1886a968bc10abc0cd11e9963ed84985"/>
+</g>
+<g>
+<use xlink:href="#path_96c16c04dd181ea949806d01e726fccc"/>
+</g>
+</svg>
